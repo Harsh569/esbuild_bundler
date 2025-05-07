@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/utils.js", "../src/index.js"],
+  "sourcesContent": ["export default function greet(name) {\r\n  console.log(`Hello, ${name}! how are you i am fine bcjhdbcxgiu`);\r\n  console.log(\"Hello, harshad sonawane! how are you i am fine bcjhdbcxgiu\");\r\n  console.log(\"Hello, harshad sonawane! how are you i am fine bcjhdbcxgiu\");\r\n  console.log(\"Hello, harshad sonawane! how are you i am fine bcjhdbcxgiu\");\r\n}\r\n", "import greet from \"./utils.js\";\r\n\r\ngreet(\"harshad sonawane 12345\");\r\n"],
+  "mappings": "MAAe,SAARA,EAAuBC,EAAM,CAClC,QAAQ,IAAI,UAAUA,CAAI,qCAAqC,EAC/D,QAAQ,IAAI,4DAA4D,EACxE,QAAQ,IAAI,4DAA4D,EACxE,QAAQ,IAAI,4DAA4D,CAC1E,CCHAC,EAAM,wBAAwB",
+  "names": ["greet", "name", "greet"]
+}
